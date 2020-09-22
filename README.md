@@ -1,6 +1,6 @@
 # About
 
-- React [Frontend](https://github.com/Bearinawolfpack/keyboard_backend)
+- React [Frontend](https://github.com/Bearinawolfpack/KeypressFrontend)
 - Rails Backend
 
 ## To Do
